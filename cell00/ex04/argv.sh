@@ -1,4 +1,4 @@
-vi argv.sh#!/bin/bash
+#!/bin/bash
 
 # Check if no arguments are supplied
 if [ "$#" -eq 0 ]; then
